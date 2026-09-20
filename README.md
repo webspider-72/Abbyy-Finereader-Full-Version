@@ -239,4 +239,4 @@ This repository serves as the official landing page for ABBYY FineReader. The so
 **Get the most recent version of ABBYY FineReader today!**
 
 ---
-**Last updated:** 2026-09-20 17:05:45 UTC
+**Last updated:** 2026-09-20 19:56:27 UTC
